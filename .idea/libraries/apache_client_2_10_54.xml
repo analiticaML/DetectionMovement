@@ -1,0 +1,69 @@
+<component name="libraryTable">
+  <library name="apache-client-2.10.54">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/dependency/apache-client-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/arns-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/slf4j-simple-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/regions-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/utils-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/aws-crt-0.15.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/aws-core-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-transport-native-epoll-4.1.42.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/reactive-streams-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/s3control-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/protocol-core-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/sdk-core-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-transport-native-unix-common-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/eventstream-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-transport-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/aws-xml-protocol-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/annotations-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/profiles-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/amqp-client-5.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/aws-json-protocol-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/s3-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/s3-transfer-manager-2.17.103-PREVIEW.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/auth-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/aws-query-protocol-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/aws-lambda-java-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-resolver-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/http-client-spi-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/httpclient-4.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/httpcore-4.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/jackson-annotations-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/jackson-core-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/jackson-databind-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/junit-jupiter-api-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/junit-jupiter-engine-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/junit-platform-commons-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/junit-platform-engine-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/junit-platform-launcher-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/kms-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/log4j-api-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/log4j-core-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/log4j-slf4j18-impl-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/metrics-spi-2.17.103.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-buffer-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-codec-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-codec-http-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-codec-http2-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-common-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-handler-4.1.42.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-nio-client-2.10.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/dependency/netty-reactive-streams-http-2.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/target/dependency/hamcrest-core-1.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
